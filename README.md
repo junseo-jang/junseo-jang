@@ -13,7 +13,7 @@ I'm NLP researcher currently working as intern researcher at <a href="http://agi
     <img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   
-## ☎️ you want to contact me...
+## ☎️ If you want to contact me...
 
   <a href="https://www.instagram.com/jungrafia/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
