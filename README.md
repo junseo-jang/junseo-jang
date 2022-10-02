@@ -1,6 +1,7 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=timeGradient&animation=fadeIn)
+
+## 🛠 My Tech Stacks are...
+ <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
 <!--
 **junseo-jang/junseo-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
