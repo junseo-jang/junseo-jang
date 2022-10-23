@@ -13,6 +13,9 @@ I'm NLP researcher currently working as intern researcher at <a href="http://agi
     <img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   
+## 🏆 Awards and Honors
+- KT GenieLab Dev Challenge 2022(Finetuning T5 Model for NER) : First Place
+
 ## ☎️ If you want to contact me...
 
   <a href="https://www.instagram.com/jungrafia/">
