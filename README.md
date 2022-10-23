@@ -18,7 +18,7 @@ I'm NLP researcher currently working as intern researcher at <a href="http://agi
   <a href="https://www.instagram.com/jungrafia/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="jjs97612@gmail.com">
+  <a href="mailto:jjs97612@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 <!--
