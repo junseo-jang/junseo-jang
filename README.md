@@ -9,7 +9,7 @@ I'm NLP researcher currently working as intern researcher at <a href="http://agi
  
 ## 🔭 If you are interested in my research projects...
 
-  <a href="https://tiny-harp-c0f.notion.site/Junseo-Jang-dcb4524e89eb48b0992b7240ee0cce10">
+  <a href="https://tiny-harp-c0f.notion.site/Projects-Portfolio-98d212e8653c46538f1e5a9cec3d2730">
     <img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   
