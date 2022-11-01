@@ -14,7 +14,8 @@ I'm NLP researcher currently working as intern researcher at <a href="http://agi
   </a>
   
 ## 🏆 Awards and Honors
-- KT GenieLab Dev Challenge 2022(Finetuning T5 Model for NER) : First Place
+🥇 KT GenieLabs Dev-Challenge 2022 1위
+   과제1 (초거대 T5 모델 기반 개체명 인식 파인 튜닝) with <a href='https://github.com/kkjsw17'>Kijun Kwon</a>, <a href='https://github.com/reesony'>Sungyoon Lee</a>
 
 ## ☎️ If you want to contact me...
 
