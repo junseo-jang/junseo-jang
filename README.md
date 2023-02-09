@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=timeGradient&animation=fadeIn)
 
-## 😄 Hello I'm Junseo and
-I'm NLP researcher currently working as intern researcher at <a href="http://agilesoda.com/">AgileSoDA</a>
+## 😄 Hello I'm Junseo
 
 ## 🛠 My Tech Stacks are...
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
